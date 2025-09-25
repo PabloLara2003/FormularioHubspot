@@ -18,8 +18,6 @@ backend/.env
 HUBSPOT_PRIVATE_APP_TOKEN=pat-na1-xxxxxxxxxxxxxxxxxxxxxxxx
 
 
-**Importante:** no subas este archivo al repositorio. Añade `backend/.env` a `.gitignore`.
-
 2. Verifica que `docker-compose.yml`, `backend/Dockerfile` y `frontend/Dockerfile` estén presentes en la raíz del proyecto (ya vienen en este repo).
 
 ---
